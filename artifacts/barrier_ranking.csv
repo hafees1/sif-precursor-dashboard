@@ -1,0 +1,50 @@
+barrier_failure,total_reports,sif_reports,sif_density
+unsafe positioning,91,29,0.319
+load path not controlled,99,31,0.313
+failure to lock out and tag out,86,26,0.302
+seat belt not used,103,31,0.301
+worker inside exclusion zone,90,26,0.289
+inadequate scaffold inspection,105,30,0.286
+inadequate barricading,221,63,0.285
+poor spark containment,107,30,0.28
+inadequate ventilation,125,35,0.28
+uncontrolled suspended load,112,31,0.277
+improper ladder use,106,29,0.274
+missing isolation verification,110,30,0.273
+flammable material not removed,119,32,0.269
+overloaded crane,104,28,0.269
+inadequate grounding,127,33,0.26
+incomplete isolation,89,23,0.258
+speeding,97,25,0.258
+insufficient fire watch,122,31,0.254
+water accumulation,107,27,0.252
+missing anchor point,92,23,0.25
+fatigue,109,27,0.248
+inadequate lifting plan,109,27,0.248
+exposed live conductor,85,21,0.247
+missing entry permit,138,34,0.246
+damaged sling,116,28,0.241
+incorrect PPE,96,23,0.24
+missing hot-work permit,101,24,0.238
+unsupported excavation wall,98,23,0.235
+poor communication,100,23,0.23
+poor vehicle condition,110,25,0.227
+unsafe access,89,20,0.225
+no gas testing,103,23,0.223
+missing utility identification,104,23,0.221
+missing electrical isolation,91,20,0.22
+no standby person,87,19,0.218
+unguarded platform edge,87,19,0.218
+inadequate rescue arrangement,102,22,0.216
+unexpected stored energy,101,21,0.208
+poor rigging,87,18,0.207
+damaged cable,86,17,0.198
+missing fall protection,100,18,0.18
+driver distraction,90,16,0.178
+inadequate gas testing,85,15,0.176
+incorrect valve identification,116,20,0.172
+obstruction,89,0,0.0
+poor labeling,78,0,0.0
+minor procedural deviation,76,0,0.0
+minor housekeeping issue,75,0,0.0
+incorrect storage,80,0,0.0

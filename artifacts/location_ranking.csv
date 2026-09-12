@@ -1,0 +1,29 @@
+location,total_reports,sif_reports,sif_density
+Fabrication Yard,119,39,0.328
+Maintenance Workshop,82,24,0.293
+Process Vessel,126,35,0.278
+Field Road,87,24,0.276
+Substation,100,27,0.27
+Drilling Site,219,59,0.269
+Plant Road,127,34,0.268
+Well Pad,325,86,0.265
+Storage Tank,101,26,0.257
+Road Construction Area,82,21,0.256
+Processing Plant,609,154,0.253
+Maintenance Area,88,22,0.25
+Production Field,100,25,0.25
+Pump Station,180,44,0.244
+Sewer Area,105,25,0.238
+Tank Farm,223,53,0.238
+Production Facility,528,125,0.237
+Construction Area,202,47,0.233
+Construction Site,206,47,0.228
+Camp Road,89,19,0.213
+Water Treatment Area,115,24,0.209
+Remote Site,106,22,0.208
+Workshop,355,70,0.197
+Warehouse,378,71,0.188
+Pipeline Corridor,102,16,0.157
+Office,89,0,0.0
+Canteen,81,0,0.0
+Administrative Building,76,0,0.0

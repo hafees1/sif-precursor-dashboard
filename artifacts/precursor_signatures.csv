@@ -1,0 +1,16 @@
+activity,barrier_failure,total,sif,sif_density
+electrical maintenance,failure to lock out and tag out,16,8,0.5
+excavation,unsupported excavation wall,14,7,0.5
+lifting operation,worker inside exclusion zone,10,5,0.5
+manhole entry,inadequate ventilation,30,14,0.467
+lifting operation,inadequate barricading,27,12,0.444
+material handling,inadequate barricading,18,8,0.444
+gas cutting,missing hot-work permit,16,7,0.438
+transportation,seat belt not used,16,7,0.438
+equipment servicing,missing isolation verification,14,6,0.429
+pipeline maintenance,failure to lock out and tag out,12,5,0.417
+vehicle driving,seat belt not used,17,7,0.412
+equipment lifting,uncontrolled suspended load,22,9,0.409
+field transportation,fatigue,22,9,0.409
+gas cutting,poor spark containment,22,9,0.409
+lifting operation,unsafe positioning,15,6,0.4

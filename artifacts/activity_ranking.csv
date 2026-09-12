@@ -1,0 +1,51 @@
+activity,total_reports,sif_reports,sif_density
+lifting operation,98,35,0.357
+pipe handling,88,29,0.33
+gas cutting,90,29,0.322
+material handling,94,29,0.309
+transportation,109,33,0.303
+excavation,93,28,0.301
+pipeline maintenance,99,29,0.293
+elevated maintenance,98,28,0.286
+vehicle movement,98,28,0.286
+equipment lifting,108,30,0.278
+tank cleaning,112,31,0.277
+vehicle driving,87,24,0.276
+fabrication,111,30,0.27
+material lifting,100,27,0.27
+panel maintenance,104,28,0.269
+ladder work,105,28,0.267
+roof maintenance,109,29,0.266
+manhole entry,106,28,0.264
+equipment servicing,84,22,0.262
+pit cleaning,92,24,0.261
+cable installation,92,24,0.261
+trenching,86,22,0.256
+grinding,124,31,0.25
+electrical testing,93,23,0.247
+crane lifting,114,28,0.246
+platform inspection,91,22,0.242
+field transportation,112,27,0.241
+valve replacement,96,23,0.24
+rigging operation,115,27,0.235
+pressure testing,110,25,0.227
+load transfer,91,20,0.22
+confined space entry,133,29,0.218
+pump maintenance,115,25,0.217
+underground utility work,111,24,0.216
+earthwork,107,23,0.215
+site shuttle,92,19,0.207
+hot work maintenance,99,20,0.202
+switchgear inspection,100,20,0.2
+welding,110,22,0.2
+electrical repair,96,19,0.198
+electrical maintenance,108,21,0.194
+foundation work,114,22,0.193
+heavy vehicle operation,109,21,0.193
+vessel inspection,112,21,0.188
+scaffold work,87,12,0.138
+routine inspection,67,0,0.0
+general maintenance,88,0,0.0
+office activity,78,0,0.0
+material storage,76,0,0.0
+housekeeping,89,0,0.0
